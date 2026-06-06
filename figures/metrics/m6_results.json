@@ -1,0 +1,16 @@
+{
+  "model": "runwayml/stable-diffusion-v1-5",
+  "inference_steps": 25,
+  "resolution": "512x512",
+  "gpu": "Tesla T4",
+  "avg_time_per_image_seconds": 8,
+  "generated_count": 3,
+  "failure_modes_observed": [
+    "Brand recognition (Funko, Playmobil, Octonauts not recognized)",
+    "Specific product IDs not understood",
+    "Licensed characters cannot be reproduced",
+    "Text-in-image rendering is weak",
+    "Exact counts/sizes not preserved"
+  ],
+  "practical_takeaway": "Generated images useful for generic lifestyle/marketing imagery, but cannot replace branded product photos."
+}

@@ -1,0 +1,30 @@
+{
+  "accuracy_by_length": {
+    "<50": {
+      "acc": 0.9534313725490197,
+      "n": 816
+    },
+    "50-100": {
+      "acc": 0.9432835820895522,
+      "n": 670
+    },
+    "100-200": {
+      "acc": 0.9365079365079365,
+      "n": 756
+    },
+    "200-300": {
+      "acc": 0.9129129129129129,
+      "n": 333
+    },
+    "300-500": {
+      "acc": 0.8787878787878788,
+      "n": 231
+    },
+    "500+": {
+      "acc": 0.8777777777777778,
+      "n": 180
+    }
+  },
+  "pos_sample_text": "My 12 month old loves and so do we. It\u2019s a good deal for the price. Wish speed could be a bit faster and to be able to turn on from the remote control",
+  "neg_sample_text": "Filled it up with helium and it didn\u2019t even float. The tail end floated and the claws just dragged the ground. Couldn\u2019t even hang it up. Disappointed "
+}
